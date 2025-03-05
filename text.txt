@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome, universe!
+=======
+Hello, world!
+>>>>>>> edit-text
